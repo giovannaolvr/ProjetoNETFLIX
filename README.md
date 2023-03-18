@@ -1,6 +1,6 @@
 # Projeto Clone Netflix
 
-- É um projeto para treinar minhas habilidades, principalmente em JavaScript, CSS utilizando o React.
+- Projeto utilizando JavaScript, CSS e React.
 - Todos os dados utilizados foram fornecidos pelo [The Movie Database](https://www.themoviedb.org/?language=pt-BR).
 
 # Getting Started with Create React App
