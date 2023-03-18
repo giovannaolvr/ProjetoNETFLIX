@@ -2,8 +2,10 @@
 Responsavel por lidar com todo o acesso a API.
 */
 
-const API_KEY = 'a90eebc40df8e797c44b54e59bbc433f';
-const API_BASE = 'https://api.themoviedb.org/3';
+const API_KEY = '' // aqui vai a API KEY
+const API_BASE = '' // aqui vai a API BASE
+
+// ambos disponibilizados pelo tmdb
 
 
 const basicFetch = async (endpoint) => {
