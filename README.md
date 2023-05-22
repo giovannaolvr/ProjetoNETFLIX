@@ -1,5 +1,5 @@
 # Projeto Clone Netflix
-
+- Objetivo: práticar a liguagem JavaScript e o framework React.
 - Projeto utilizando JavaScript, CSS e React.
 - Todos os dados utilizados foram fornecidos pelo [The Movie Database](https://www.themoviedb.org/?language=pt-BR).
 
